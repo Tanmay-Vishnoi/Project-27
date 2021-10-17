@@ -94,7 +94,7 @@ function draw() {
   }
  
   textSize(30)
-  text("Number Of Arrows = " + numberOfArrows, 150, 100);
+  text("Number Of Arrows = " + numberOfArrows, 180, 100);
 
   // Title
   fill("#FFFF");
